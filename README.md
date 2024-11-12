@@ -11,6 +11,7 @@ Dynamic Visual Effects: The circles pulsate and shift, providing an engaging, in
 # Motivation
 The goal of this project is to connect emotions with colour, encouraging users to explore how their mood influences their fashion choices. By using sentiment analysis, the tool helps users visualise and choose colors that reflect their current emotional state. 
 
+
 # Installation
 To get this project running on your local machine, follow these steps:
 
@@ -42,6 +43,14 @@ Surprised
 Bored
 and the color palette will update based on your emotional state.
 The circles will animate, moving along a circular path and pulsating in response to the mood.
+
+# Screenshots
+
+<img width="1447" alt="Screen Shot 2024-11-12 at 10 58 18 pm" src="https://github.com/user-attachments/assets/54f04a29-afca-44c2-ad21-2576eef20e1d">
+
+
+
+
 
 # Roadmap
 The current version of the project includes:
