@@ -20,9 +20,9 @@ Processing: A free and open-source graphical sketchbook and IDE built for the el
 Download Processing
 
 # Steps:
-Clone the repository:
+Clone the repository: https://github.com/larahalmarick/Sentiment-Driven-Colour-Palette
 bash
-Copy code: git clone https://github.com/yourusername/sentiment-driven-fashion-palette.git
+Copy code: git clone 
 Open the project in Processing.
 Make sure its in Java mode
 Run the SentimentPalette.pde file.
