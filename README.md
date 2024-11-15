@@ -14,18 +14,17 @@ The goal of this project is to connect emotions with colour, encouraging users t
 
 # Installation
 To get this project running on your local machine, follow these steps:
+Clone the repository: https://github.com/larahalmarick/Sentiment-Driven-Colour-Palette
+bash
+Open the project in Processing.
+Make sure its in Java mode.
+Paste the code.
+Run the code using the play button. 
 
 # Prerequisites
 Processing: A free and open-source graphical sketchbook and IDE built for the electronic arts.
 Download Processing
 
-# Steps:
-Clone the repository: https://github.com/larahalmarick/Sentiment-Driven-Colour-Palette
-bash
-Copy code: git clone 
-Open the project in Processing.
-Make sure its in Java mode
-Run the SentimentPalette.pde file.
 
 # Usage
 Launch the project in Processing.
